@@ -35,6 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  <img src="https://i.imgur.com/L3MyOPc.png: height="75%" width="100%" alt="Open a Ticket"/>
 
 This marks the beginning of the ticket lifecycle and logs Karen’s issue into the help desk support queue..</p>
+
 <h3 align="center">Assignment and Communication</h3>
 
   Once the ticket is submitted, a support agent, John Doe, logs into the help desk dashboard to check for new and existing tickets requiring attention.
@@ -42,9 +43,7 @@ This marks the beginning of the ticket lifecycle and logs Karen’s issue into t
 
 Upon reviewing the submitted ticket, Agent John Doe begins the initial assessment and prepares to handle or delegate the issue.</p>
 
- 
   <img src="https://i.imgur.com/IPfbhEa.png" height="75%" width="50%" alt="Support agent login"/>
-  
   
   Upon examining the ticket details, Agent John determines it is a Severity-A (Sev-A) emergency, indicating a critical issue requiring immediate intervention.</p>
 
