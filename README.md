@@ -37,4 +37,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <p>
-This marks the beginning of the ticket lifecycle and logs Ken’s issue into the help desk queue for review by support staff.</p>
+This marks the beginning of the ticket lifecycle and logs Karen’s issue into the help desk queue for review by support staff.</p>
