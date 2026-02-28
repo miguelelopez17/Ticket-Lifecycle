@@ -43,16 +43,13 @@ This marks the beginning of the ticket lifecycle and logs Karen’s issue into t
 <br />
 <p>
   Once the ticket is submitted, a support agent, John Doe, logs into the help desk dashboard to check for new and existing tickets requiring attention.
-</p>
-<p>
+
+
 Upon reviewing the submitted ticket, Agent John Doe begins the initial assessment and prepares to handle or delegate the issue.</p>
-<p>
+
   <img src="https://i.imgur.com/IPfbhEa.png" height="75%" width="50%" alt="Support agent login"/>
   Upon examining the ticket details, Agent John determines it is a Severity-A (Sev-A) emergency, indicating a critical issue requiring immediate intervention.</p>
-<p>
+
 Realizing that the issue is beyond his scope or requires specialized expertise, he decides to escalate the ticket by reassigning it to a System Administrator. Before transferring it, he ensures that proper internal notes and communication are added to maintain clarity for the next handler.</p>
 <p>
   <img src="https://i.imgur.com/2qqIQfe.png" height="75%" width="100%" alt="Communication"/>
-</p>
-<br />
-<br />
