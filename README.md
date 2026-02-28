@@ -63,13 +63,6 @@ Jane reviews all existing notes, investigates the cause, applies the necessary f
 
   This example illustrates a ticket lifecycle from user submission to resolution, with key interactions among support staff. It showcases how a ticket moves through stages of assignment, escalation, collaboration, and closure.
  
-The lifecycle of a ticket may involve more complex paths.
-
-Reassigning the ticket to different departments or tiers based on specialization
-
-Escalating the severity level if the problem is of high impact.
-
-Routing the ticket to more experienced agents.
-
+The lifecycle of a ticket may involve more complex paths, reassigning the ticket to different departments or tiers based on specialization, escalating the severity level if the problem is of high impact, and routing the ticket to more experienced agents.
 
 Support agents may handle anywhere from 10 to 100 tickets per day, depending on the size and demands of the company. A clear understanding of the ticket lifecycle enables better communication, faster resolutions, and improved customer satisfaction.
