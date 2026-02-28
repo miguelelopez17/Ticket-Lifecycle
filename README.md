@@ -25,10 +25,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+<h2>Lifecycle Stages</h2>
+
 <h3 align="center">Intake</h3>
 <br />
 <p>
- A user named Ken initiates a support request by opening a new ticket through the osTicket system:
+ A user named Karen initiates a support request by opening a new ticket through the osTicket system:
 </p>
 <p>
  <img src="https://i.imgur.com/L3MyOPc.png: height="75%" width="100%" alt="Open a Ticket"/>
@@ -36,7 +38,3 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 <p>
 This marks the beginning of the ticket lifecycle and logs Ken’s issue into the help desk queue for review by support staff.</p>
-<p>
- <img src="https://i.imgur.com/ccqmwCL.png: height="75%" width="100%" alt="Open a Ticket"/>
-</p>
-<br />
