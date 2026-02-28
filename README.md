@@ -42,7 +42,9 @@ This marks the beginning of the ticket lifecycle and logs Karen’s issue into t
 
 Upon reviewing the submitted ticket, Agent John Doe begins the initial assessment and prepares to handle or delegate the issue.</p>
 
+ 
   <img src="https://i.imgur.com/IPfbhEa.png" height="75%" width="50%" alt="Support agent login"/>
+  
   
   Upon examining the ticket details, Agent John determines it is a Severity-A (Sev-A) emergency, indicating a critical issue requiring immediate intervention.</p>
 
